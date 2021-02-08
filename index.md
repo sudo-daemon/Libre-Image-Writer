@@ -4,6 +4,11 @@ When you're planning to write an ISO to a disk, you have two options. Either go 
 
 This is an alternative to them. It provides a clean GUI to choose the correct ISO file and disk, while taking up less than 3 KB. Its only dependencies are Python 3, and the 'dd' tool [both come preinstalled on Unix systems]. 
 
+<h2> Installation: </h2>
+
+1. Download the [img.py file](https://github.com/sudo-daemon/Libre-Image-Writer)
+2. Run 'python3 /Path/To/img.py'
+
 <h2> Philosophy </h2>
 
 Quoting the [GNU Project](https://www.gnu.org/philosophy/philosophy.html);
