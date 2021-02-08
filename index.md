@@ -2,7 +2,7 @@
 <h2> What and Why? </h2>
 When you're planning to write an ISO to a disk, you have two options. Either go hunting for an obscure [possibly proprietary and privacy-invasive] program, or use the 'dd' command that comes preinstalled on most Unix-based systems. The latter may seem like a good idea, until you realize that even a slight mistype in the syntax could lead to you accidentally writing over your entire hard disk or choosing the wrong file to write. 
 
-This is an alternative to them. It provides a clean GUI to choose the correct ISO file and disk, while taking up less than 3 KB. Its dependencies are Python 3, and the 'dd' tool. 
+This is an alternative to them. It provides a clean GUI to choose the correct ISO file and disk, while taking up less than 3 KB. Its only dependencies are Python 3, and the 'dd' tool [both come preinstalled on Unix systems]. 
 
 <h2> Philosophy </h2>
 
