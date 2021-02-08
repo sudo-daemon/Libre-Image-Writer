@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import filedialog
 import os
-import time
+
 
 success_token = False
 
