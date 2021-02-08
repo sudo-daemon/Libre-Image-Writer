@@ -8,14 +8,12 @@ This is an alternative to them. It provides a clean GUI to choose the correct IS
 
 Quoting the [GNU Project](https://www.gnu.org/philosophy/philosophy.html);
 
-"
-*Free software means that the software's users have freedom. (The issue is not about price.) ...
+"_Free software means that the software's users have freedom. (The issue is not about price.) ..._
 
-... Specifically, free software means users have the four essential freedoms: (0) to run the program, (1) to study and change the program in source code form, (2) to redistribute exact copies, and (3) to distribute modified versions.
+_... Specifically, free software means users have the four essential freedoms: (0) to run the program, (1) to study and change the program in source code form, (2) to redistribute exact copies, and (3) to distribute modified versions._
 
-Software differs from material objects—such as chairs, sandwiches, and gasoline—in that it can be copied and changed much more easily. These facilities are why software is useful; we believe a program's users should be free to take advantage of them, not solely its developer.
-*
-"
+_Software differs from material objects—such as chairs, sandwiches, and gasoline—in that it can be copied and changed much more easily. These facilities are why software is useful; we believe a program's users should be free to take advantage of them, not solely its developer._"
+
 What they said.
 
 <h2> About code contributions </h2>
