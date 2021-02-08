@@ -26,7 +26,7 @@ Even if it's a very insignificant one, I welcome and apprectiate all contributio
 
 There are 3 main objectives for this producet;
 
-1. To make a version that is compatible with the [Windows operating system](https://yewtu.be/watch?v=iqRj7cW-vjs) [to help people switch to Linux :) ]
+1. To make a version that is compatible with the [Windows operating system](https://www.gnu.org/proprietary/proprietary.html) [to help people switch to Linux :) ]
 
 2. To get this script into the main software repositiories :- [homebrew](brew.sh), [apt](https://wiki.debian.org/Apt), [aur](https://aur.archlinux.org/)
 
