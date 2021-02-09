@@ -33,7 +33,7 @@ There are 3 main objectives for this project;
 
 1. To make a version that is compatible with the [Windows operating system](https://www.gnu.org/proprietary/proprietary.html) [to help people switch to Linux :) ]
 
-2. To get this script into the main software repositiories, specifically :- [homebrew](brew.sh), [apt](https://wiki.debian.org/Apt), and the [aur](https://aur.archlinux.org/). 
+2. To get this script into the main software repositiories, specifically :- [homebrew](https://brew.sh), [apt](https://wiki.debian.org/Apt), and the [aur](https://aur.archlinux.org/). 
 
 3. To get over 100 stars on GitHub. I truly see a need for this piece of software, and I want people to know about it. 
 
