@@ -26,7 +26,7 @@ What they said.
 
 ALL, and I repeat ALL, contributions are welcome. If you know how to code, perhaps you could make the code more efficient, fix a bug, develop new logic for the script. If you don't know how to code, maybe you could tell others about this, maybe you could make art for our cover image, maybe *you could just use it*. 
 
-Even if it's a very insignificant one, I welcome and apprectiate all contributions. 
+Even if it's a very insignificant one, I welcome and appreciate all contributions. 
 
 <h2> Future objectives</h2>
 
