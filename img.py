@@ -69,8 +69,10 @@ def dd():
     #os.system('echo Good luck! >> ./.success_verification.txt')
     success_message_file = open('./.success_verification.txt', 'r')
     success_message = success_message_file.read()
-    # The ultimate goal is to show this success message on the GUI by creating another 'Label' element containing the output of the dd command
-    print(success_message)
+    # [Attempted] The ultimate goal is to show this success message on the GUI by creating another 'Label' element containing the output of the dd command
+    # print(success_message)
+    dd_output = Label(text=str(success_message))
+    dd_output.pack()
 
 # Creating actual window
 root = Tk()
