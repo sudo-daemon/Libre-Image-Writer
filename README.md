@@ -4,11 +4,9 @@ A minimalist GUI application for burning ISO's to a disk. Written in python. Tot
 <h2> Installation: </h2>
 1. Download the img.py file.
 
-2. Make sure you have the package 'tk' (Tkinter) installed.
-  This can be done with pip as well as a package manager
-  (eg: "sudo pacman -S tk" for Arch systems).
+2. Make sure you have the package 'tk' (Tkinter) installed. It comes preinstalled with most installations of Python but you can install it like [this](https://tkdocs.com/tutorial/install.html).
  
-2. Run 'python3 /Path/To/img.py'
+3. Run 'python3 /Path/To/img.py'
 
 <h2> What and Why? </h2>
 When you're planning to write an ISO to a disk, you have two options. Either go hunting for an obscure [possibly proprietary and privacy-invasive] program, or use the 'dd' command that comes preinstalled on most Unix-based systems. The latter may seem like a good idea, until you realize that even a slight mistype in the syntax could lead to you accidentally writing over your entire hard disk or choosing the wrong file to write. 
