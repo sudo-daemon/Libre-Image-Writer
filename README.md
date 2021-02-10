@@ -2,7 +2,12 @@
 A minimalist GUI application for burning ISO's to a disk. Written in python. Total size 2.83 KB. Contributions welcome. 
 
 <h2> Installation: </h2>
-1. Download the img.py file
+1. Download the img.py file.
+
+2. Make sure you have the package 'tk' (Tkinter) installed.
+  This can be done with pip as well as a package manager
+  (eg: "sudo pacman -S tk" for Arch systems).
+ 
 2. Run 'python3 /Path/To/img.py'
 
 <h2> What and Why? </h2>
